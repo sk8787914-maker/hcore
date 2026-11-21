@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Application Theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0B1020</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowBackground">#0B1020</item>
+        <item name="android:editTextColor">#FFFFFF</item>
+        <item name="android:textColorHint">#9AA6C1</item>
+    </style>
+
+    <!-- ProgressBar Style -->
+    <style name="CustomProgressBarStyle" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminateTint">#6C63FF</item>
+        <item name="android:indeterminateTintMode">src_in</item>
+    </style>
+
+    <!-- Dark Alert Dialog Style -->
+    <style name="DarkAlertDialogStyle" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="android:windowBackground">#121212</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#9AA6C1</item>
+        <item name="android:windowMinWidthMinor">85%</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+    <!-- Alert Dialog Style -->
+    <style name="AlertDialogStyle" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="android:windowBackground">#121212</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#9AA6C1</item>
+        <item name="android:windowMinWidthMinor">85%</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+</resources>

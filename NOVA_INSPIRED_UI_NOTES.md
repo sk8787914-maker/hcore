@@ -1,0 +1,1 @@
+NOVA-inspired black/crimson premium theme. Updated login, dashboard, progress dialog and radar palette. Existing view IDs and OBB source preserved. No claim of runtime or Android 11-17 compatibility verification.

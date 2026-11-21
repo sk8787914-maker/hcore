@@ -1,0 +1,10 @@
+ANDROIDIDE SETUP
+1. Extract the ZIP, then open the RENN folder (containing settings.gradle) in AndroidIDE.
+2. Gradle 8.5 must already exist at:
+   /data/data/com.itsaky.androidide/files/home/gradle-downloads/gradle-8.5-bin.zip
+   If it does not, change gradle/wrapper/gradle-wrapper.properties to the normal HTTPS Gradle URL.
+3. Your project requires Android SDK Platform 34 (compileSdk 34), Build Tools, and NDK 25.1.8937393. Install missing packages using AndroidIDE SDK manager/terminal.
+4. Run: bash gradlew help --stacktrace
+5. Then: bash gradlew :app:assembleDebug --stacktrace
+This package has NOT been compiled or verified on a real AndroidIDE device.
+The LSParanoid plugin, native code and signing settings were preserved.

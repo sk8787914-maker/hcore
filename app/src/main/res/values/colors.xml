@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#73F7D4</color>
+    <color name="colorPrimaryDark">#080D1E</color>
+    <color name="colorAccent">#C9F36B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_main">#101B35</color>
+    <color name="card_bg">#17213D</color>
+    <color name="input_bg">#0B1228</color>
+    <color name="accent_gold">#C9F36B</color>
+    <color name="text_primary">#F7F2DD</color>
+    <color name="text_secondary">#A9B5D4</color>
+    <color name="divider">#33476D</color>
+    <color name="status_safe">#73F7D4</color>
+    <color name="status_ready">#C9F36B</color>
+    <color name="primaryText">#F7F2DD</color>
+    <color name="hintText">#7382A8</color>
+    <color name="darker_gray">#A9B5D4</color>
+    <color name="button">#73F7D4</color>
+    <color name="buttonPrimary">#73F7D4</color>
+    <color name="primary">#101B35</color>
+    <color name="primaryVariant">#17213D</color>
+    <color name="secondary">#17213D</color>
+    <color name="background">#101B35</color>
+    <color name="background2">#17213D</color>
+    <color name="error">#FF7A9E</color>
+    <color name="secondary2">#17213D</color>
+</resources>
